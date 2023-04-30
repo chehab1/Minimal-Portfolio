@@ -11,6 +11,9 @@ To use this template, simply download or clone the repository to your local mach
 ```
 git clone https://github.com/chehab1/Minimal-Portfolio
 ```
+```
+Website hosted at : https://chehab1.github.io/Minimal-Portfolio/
+```
 
 ## Features
 
