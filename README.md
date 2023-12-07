@@ -13,7 +13,11 @@ git clone https://github.com/chehab1/Minimal-Portfolio
 ```
 ```
 Website hosted at : https://chehab1.github.io/Minimal-Portfolio/
+
 ```
+## Overview
+
+![sample](https://user-images.githubusercontent.com/102818359/236917727-6a147bd6-af1c-4684-92c6-be489622cbbd.png)
 
 ## Features
 
